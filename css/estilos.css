@@ -1,0 +1,29 @@
+#Inicio {
+  background: #003545;
+}
+#Inicio #rostro {
+  border-radius: 100%;
+}
+#Inicio .descripcion{
+  color: white;
+}
+#Certificaciones {
+  background:#a0e4f1;
+  color: white;
+}
+#Certificaciones #carousel_diplomas{
+  height: 500px;
+  width: 500px;
+}
+#Portafolio {
+  background:#a0e4f1;
+}
+#Contacto {
+  background: #9dc6ff;
+  color: white;
+}
+#navbar .navbar-nav .nav-item:hover{
+  background: rgba(0,0 , 0, .5);
+  color: white;
+  border-radius: 5px;
+}
